@@ -1,0 +1,11 @@
+# Ignore local data directories (Kaggle raw and python output CSVs)
+data/
+*.csv
+*.xlsx
+*.zip
+
+# Ignore local Python environments and systems
+venv/
+.env
+.DS_Store
+__pycache__/

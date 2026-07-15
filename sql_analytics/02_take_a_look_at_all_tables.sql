@@ -1,0 +1,10 @@
+use olist;
+SELECT * FROM olist_customers;
+SELECT * FROM olist_geolocation;
+SELECT * FROM olist_order_items;
+SELECT * FROM olist_order_payments;
+SELECT * FROM olist_orders;
+SELECT * FROM olist_products;
+SELECT * FROM olist_sellers;
+SELECT * FROM product_category_name_translation;
+SELECT * FROM olist_order_reviews;

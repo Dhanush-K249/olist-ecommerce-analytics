@@ -63,5 +63,5 @@ Then open `dashboards/sql.pbix` in **Power BI Desktop** and update the database 
 
 ## 📊 Power BI Executive Dashboard
 
-![Dashboard Preview](dashboards/screenshot1.png)
-![Dashboard Preview](dashboards/screenshot2.png)
+![Dashboard Preview](dashboards/page1.png)
+![Dashboard Preview](dashboards/page2.png)
